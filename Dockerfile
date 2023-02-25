@@ -1,4 +1,4 @@
-FROM ghcr.io/dante-ev/texlive:edge
+FROM texlive/texlive:latest
 
 WORKDIR /root
 
