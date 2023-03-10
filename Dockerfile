@@ -1,4 +1,4 @@
-FROM texlive/texlive:latest
+FROM texlive/texlive:TL2021-historic
 
 WORKDIR /root
 
